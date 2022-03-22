@@ -1,0 +1,18 @@
+html{
+  background-color: blanchedalmond;
+}
+
+.container-fluid{
+  background-color: blanchedalmond;
+}
+
+input[type="text"]{
+  background: transparent;
+  color: black;
+}
+
+input[type="text"]:focus{
+  background: transparent;
+  color: black;
+}
+
